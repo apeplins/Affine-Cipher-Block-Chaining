@@ -25,6 +25,14 @@ The function to calculate the inverse of a is: Powermod(a,  -1, mod_value) on ww
 
 All generated reports are printed to the STD OUT
 
+## Build
+You can build it with the following command:
+g++ Source.cpp -o Affine-Cipher.exe
+
+or using Visual Studio 2019
+then run it with the following command:
+./Affine-Cipher.exe 15 3 26 18 13 14 22 0
+
 ## Usage
 Source.exe a b m data#1 data#2 data#3 data#4 iv
 
