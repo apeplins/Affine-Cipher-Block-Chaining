@@ -1,5 +1,5 @@
 # Affine-Cipher-Block-Chaining
-<img src="https://github.com/apeplins/Affine-Cipher-Block-Chaining/blob/main/AES-CBC-256-smaller.png?raw=true" width="400" height="200">
+<img src="https://github.com/apeplins/Affine-Cipher-Block-Chaining/blob/main/Affine-CBC-Cipher.png?raw=true" width="645" height="400">
 
 ## About
 Encryption example for introduction to Cryptography and Data Security. This program will encrypt data using the Affine Cipher and cipher block chaining(CBC).
